@@ -3,3 +3,5 @@ A fully functional app deployed on Heroku that takes in an input image and detec
 Link: https://lirec.herokuapp.com/
 
 Additionally attached a deep learning model to improve accuracy.
+
+![](LiRec.jpg)
